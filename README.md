@@ -1,8 +1,6 @@
 # ecommerce-laravel-fullstack
 
-# Link : http://vampireecommerce.herokuapp.com
 
-This repo is based on the [youtube series](https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR) by [@drehimself](https://github.com/drehimself)
 
 ## Features
 
@@ -14,7 +12,7 @@ This repo is based on the [youtube series](https://www.youtube.com/playlist?list
 -   An artisan command to seed the database with all neccessary dummy data, even for voyager tables (php artisan ecommerce:install).
 -   Different user roles and privileges.
 -   Categories, tags and price filtering for easier search for products.
--   And much more features.
+- CRM For admin and for user
 
 ---
 
